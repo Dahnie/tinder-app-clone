@@ -1,3 +1,8 @@
+A clone of the online dating app, tinder built with reactjs for the frontend and nodejs for the backend.
+The backend was built with nodejs, express, and mongodb for the database. The backend is deployed on heroku.
+The frontend is built with Reactjs and CSS, and it is deployed on firebase.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
